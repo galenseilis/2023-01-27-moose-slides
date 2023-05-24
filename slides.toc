@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Purpose}{2}{0}{1}
+\beamer@sectionintoc {2}{Indicators}{6}{0}{2}
+\beamer@sectionintoc {3}{Covariates \& Confounds}{14}{0}{3}
+\beamer@sectionintoc {4}{Modelling Approaches}{16}{0}{4}
+\beamer@sectionintoc {5}{Collaboration}{19}{0}{5}
